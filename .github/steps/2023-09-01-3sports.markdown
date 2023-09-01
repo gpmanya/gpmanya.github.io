@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to GP Sports pages"
+date:   2023-09-01 16:06:51 -0300
+categories: gp update
+---
+
+I am an amateur football player and I can write a lot of lies here but perhaps you want to see some sports notices, 
+you can go to [marca.com](https://www.marca.com/), come on !

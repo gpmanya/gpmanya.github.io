@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My career !"
+date:   2023-09-01 16:06:51 -0300
+categories: gp update
+---
+
+I am an accountant but what I really love is painting and playing football.
+
+

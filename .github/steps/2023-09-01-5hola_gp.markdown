@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Hola GP !"
+date:   2023-09-01 16:06:51 -0300
+categories: gp update
+---
+This is my personal page and I am writing this as a proof of concept using jekyll so I hope you give me an ok to this activity ok !!!
+
+Thanks in advance...
+
+My name is Gervasio and I have a son, he es Alejandro.
+Here is where all my personal data will be, and with my photo too..., perhaps...
+
+
+
+
